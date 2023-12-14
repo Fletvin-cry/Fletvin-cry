@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fletvin-cry
+- 👀 I’m interested in C++ and Python programming, Arduino projects. Also I like 3D modelling in Blender, Blockbench and Mine-imator
+- 🌱 I’m currently learning C++ and Git
+- 📫 How to reach me: altlogikm@gmail.com
